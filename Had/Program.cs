@@ -15,6 +15,7 @@ namespace Had
 
         static void Main(string[] args)
         {
+            Console.writeline("Jen zkouším");
             // Nastavení konzole
             Console.CursorVisible = false;
             int width = Console.WindowWidth - 2; // Ohraničení rámečkem
